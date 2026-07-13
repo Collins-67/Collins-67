@@ -31,4 +31,4 @@ I am an MSc candidate in **Geoinformation Science and Earth Observation** at the
 
 ---
 
-*Note: much of my current research code lives in institutional and privately governed repositories. The public repositories here are illustrative of methods and workflows I engage with in that broader work.*
+*Note: some of my current research code lives in institutional and privately governed repositories. Some of the public repositories here are illustrative of methods and workflows I engage with in that broader work.*
