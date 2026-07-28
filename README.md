@@ -27,7 +27,7 @@ I am an MSc graduate in **Geoinformation Science and Earth Observation** at the 
 
 #### 📄 Elsewhere
 
-- 🌐 Portfolio: [sites.google.com/view/collinshlordzie/home](https://sites.google.com/view/collinshlordzie/home)
+- 🌐 Portfolio: [https://collins-67.github.io/](https://collins-67.github.io/)
 - 💼 LinkedIn: [collins-edem-hlordzie](https://www.linkedin.com/in/collins-edem-hlordzie/)
 - 📧 Email: edemcollins67@gmail.com
 
