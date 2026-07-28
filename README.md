@@ -1,13 +1,13 @@
 ### Hi, I'm Collins 👋
 
-I am an MSc candidate in **Geoinformation Science and Earth Observation** at the University of Twente (ITC) and Lund University, working at the intersection of **UAV imaging, deep-learning segmentation, and applied Earth Observation for agriculture**.
+I am an MSc graduate in **Geoinformation Science and Earth Observation** at the University of Twente (ITC) and Lund University, worked at the intersection of **UAV imaging, deep-learning segmentation, and applied Earth Observation for agriculture**.
 
 ---
 
-#### 🔬 Currently
+#### 🔬 Currently / Few months ago
 
-- Completing my MSc thesis on **UAV-based crop mapping and fractional vegetation estimation in smallholder landscapes of Mozambique**, using a Segformer transformer architecture.
-- Working as a **Geospatial Intern at Ramani B.V.** (The Netherlands), validating Earth Observation implementations of Verra's VM0047 methodology for nature-based carbon removal and contributing to AI-driven agricultural advisory systems.
+- Completed my MSc thesis on **UAV-based crop mapping and fractional vegetation estimation in smallholder landscapes of Mozambique**, using a Segformer transformer architecture.
+- Worked as a **Geospatial Intern at Ramani B.V.** (The Netherlands), validated Earth Observation implementations of Verra's VM0047 methodology for nature-based carbon removal and contributed to AI-driven agricultural advisory systems.
 
 #### 🌾 Research interests
 
@@ -15,13 +15,15 @@ I am an MSc candidate in **Geoinformation Science and Earth Observation** at the
 - Earth Observation at scale (Sentinel, Landsat, MODIS)
 - Agricultural AI and decision-support systems for growers and breeders
 - Spatial statistics and validation of remote-sensing products
+- Climate-smart agriculture
 
 #### 🛠️ Tools I work with
 
-**Languages & ML:** Python (PyTorch, scikit-learn, geopandas, xarray), R, MATLAB
+**Languages & ML:** Python (PyTorch, scikit-learn, geopandas, xarray), MATLAB
 **Geospatial:** Google Earth Engine, ArcGIS, QGIS, PIX4D, TIMESAT
 **Deep learning:** Segformer and related transformer architectures, semantic segmentation
 **Statistics:** Theil–Sen, Mann–Kendall, trend analysis, accuracy assessment
+**Process-based simulation modelling:** LPJ-GUESS dynamic vegetation model
 
 #### 📄 Elsewhere
 
