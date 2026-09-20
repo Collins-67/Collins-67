@@ -16,6 +16,7 @@ I am an MSc graduate in **Geoinformation Science and Earth Observation** at the 
 - Agricultural AI and decision-support systems for growers and breeders
 - Spatial statistics and validation of remote-sensing products
 - Climate-smart agriculture
+- Voluntary Carbon Markets
 
 #### 🛠️ Tools I work with
 
