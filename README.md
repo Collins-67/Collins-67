@@ -23,8 +23,7 @@ I am an MSc graduate in **Geoinformation Science and Earth Observation** at the 
 **Languages & ML:** Python (PyTorch, scikit-learn, geopandas, xarray), MATLAB
 **Geospatial:** Google Earth Engine, ArcGIS, QGIS, PIX4D, TIMESAT
 **Deep learning:** Segformer and related transformer architectures, semantic segmentation
-**Statistics:** Theil–Sen, Mann–Kendall, trend analysis, accuracy assessment
-**Process-based simulation modelling:** LPJ-GUESS dynamic vegetation model
+**Process-based simulation modelling:** LPJ-GUESS dynamic vegetation model, InVEST
 
 #### 📄 Elsewhere
 
